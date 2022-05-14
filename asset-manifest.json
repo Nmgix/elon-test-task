@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/elon-test-task/static/css/main.79147a42.css",
-    "main.js": "/elon-test-task/static/js/main.93f8c2a2.js",
+    "main.js": "/elon-test-task/static/js/main.6a62cb58.js",
     "static/media/background.png": "/elon-test-task/static/media/background.567dc5f50a916d1a2250.png",
     "static/media/planet.png": "/elon-test-task/static/media/planet.d1aff6d34ce379208f93.png",
     "static/media/MuseoSansCyrl-100.eot": "/elon-test-task/static/media/MuseoSansCyrl-100.cd9787f9ada018d30e38.eot",
@@ -12,10 +12,10 @@
     "static/media/MuseoSansCyrl-700.ttf": "/elon-test-task/static/media/MuseoSansCyrl-700.0fdaf12ef52d5b92cdaf.ttf",
     "index.html": "/elon-test-task/index.html",
     "main.79147a42.css.map": "/elon-test-task/static/css/main.79147a42.css.map",
-    "main.93f8c2a2.js.map": "/elon-test-task/static/js/main.93f8c2a2.js.map"
+    "main.6a62cb58.js.map": "/elon-test-task/static/js/main.6a62cb58.js.map"
   },
   "entrypoints": [
     "static/css/main.79147a42.css",
-    "static/js/main.93f8c2a2.js"
+    "static/js/main.6a62cb58.js"
   ]
 }
